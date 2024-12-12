@@ -40,13 +40,13 @@ export default {
 </script>
 <style scoped>
 .header {
-    margin: 0 auto;
-    max-width: 1110px;
-    height: 100px;
     padding: 0 15px;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin: 0 auto;
+    max-width: 1110px;
+    height: 100px;
 }
 .ink__header {
     background-color: #E1EDE6;
@@ -64,12 +64,6 @@ export default {
     color:#598D66;
     font-size: 20px;
 }
-
-.header__logo.pic-block {
-    width: 35px;
-    height: 35px;
-}
-
 .header_line {
     display: none;
     width: 88.5vw;
@@ -83,38 +77,27 @@ export default {
     width: 100%;
     height: 62px;
 }
-
+.header__logo.pic-block {
+    width: 35px;
+    height: 35px;
+}
 .h.button {
     width: 30px;
     height: 30px;
     margin: 0 0 0 15px;
     padding: 0;
-    background-image: url("../assets/Vector.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
     border: none;
     background-color: transparent;
+    background-image: url("../assets/Vector.svg");
 }
 
 .hamburger__icon {
     width: 24px;
     height: 24px;
 }
-
-.h_nav{
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    position: absolute;
-    width: 100%;
-    height: 433px;
-    background-color: #E1EDE6;
-    padding: 16px 15px;
-    left: 0;
-    transform: translate(0, 202px);
-}
-
 .h_nav a {
     text-decoration: none;
     color: #2C2D35;
@@ -125,12 +108,24 @@ export default {
     text-align: left;
     margin: 30px 0 20px 0;
 }
+.h_nav{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background-color: #E1EDE6;
+    padding: 16px 15px;
+    left: 0;
+    position: absolute;
+    width: 100%;
+    height: 433px;
+    transform: translate(0, 202px);
+}
 
 .header_nav {
     display: flex;
     justify-content: space-between;
-    align-items: center;
     gap: 60px;
+    align-items: center;
 }
 
 .header_text_block {
@@ -144,11 +139,11 @@ export default {
 .header_nav a {
     text-decoration: none;
     color: #2C2D35;
+    line-height: 23.48px;
+    text-align: left;
     font-family: Raleway;
     font-size: 20px;
     font-weight: 500;
-    line-height: 23.48px;
-    text-align: left;
 }
 
 .nav_cart.pic{
@@ -193,17 +188,17 @@ export default {
 
 @media screen and (width <= 376px) {
     .header {
-        padding: 0;
         height: 130px;
+        padding: 0;
     }
 
     .header__logo_pic-block {
-        display: flex;
-        justify-content: center;
-        align-items: center;
         height: 68px;
         width: 100%;
         background-color: #FFFFFF;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 
     .header_line_510 {

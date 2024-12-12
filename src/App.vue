@@ -1,5 +1,7 @@
 <template>
-  <InkHeader></InkHeader>
+  <!--<InkHeader></InkHeader>-->
+  <InkHeader />
+  <router-view/>
 </template>
 <script>
 import InkHeader from "./components/InkHeader.vue";
