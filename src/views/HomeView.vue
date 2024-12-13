@@ -11,6 +11,7 @@
             <button class="product button">Продукция</button>
         </div>
   </div>
+  <ReproductionBlock />
 </template>
 <style>
 .bird-lay{
@@ -148,6 +149,7 @@
 <script>
 // @ is an alias to /src
 import HelloWorld from '@/components/HelloWorld.vue'
+import ReproductionBlock from '@/components/ReproductionBlock.vue';
 
 /*export default {
   name: 'HomeView',
@@ -162,7 +164,7 @@ export default {
         }
     },
     components: {
-        
+        ReproductionBlock
     }
 }
 

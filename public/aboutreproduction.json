@@ -1,0 +1,162 @@
+{
+    "ForFranceRep": {
+        "Country": "Франция",
+        "Reproductions": [
+            {
+                "author": "Марсель Руссо",
+                "Name": "Охота Амура",
+                "description": "Холст, масло",
+                "size": "50х80",
+                "price": "14 500 руб",
+                "url": "cart_art_f1.jpg"
+            },
+            {
+                "author": "Анри Селин",
+                "Name": "Дама с собачкой",
+                "description": "Акрил, бумага",
+                "size": "50х80",
+                "price": "16 500 руб",
+                "url": "cart_art_f2.jpg"
+            },
+            {
+                "author": "Франсуа Дюпон",
+                "Name": "Процедура",
+                "description": "Цветная литография",
+                "size": "40х60",
+                "price": "20 000 руб",
+                "url": "cart_art_f3.jpg"
+            },
+            {
+                "author": "Луи Детуш",
+                "Name": "Роза",
+                "description": "Бумага, акрил",
+                "size": "50х80",
+                "price": "12 000 руб",
+                "url": "cart_art_f4.jpg"
+            },
+            {
+                "author": "Франсуа Дюпон",
+                "Name": "Птичья трапеза",
+                "description": "Цветная литография",
+                "size": "40х60",
+                "price": "22 500 руб",
+                "url": "cart_art_f5.jpg"
+            },
+            {
+                "author": "Пьер Моранж",
+                "Name": "Пейзаж с рыбой",
+                "description": "Цветная литография",
+                "size": "40х60",
+                "price": "20 000 руб",
+                "url": "cart_art_f6.jpg"
+            }
+        ]
+    },
+    "ForGermanyRep": {
+        "Country": "Германия",
+        "Reproductions": [
+            {
+                "author": "Курт Вернер",
+                "Name": "Над городом",
+                "description": "Цветная литография",
+                "size": "40х60",
+                "price": "16 000 руб",
+                "url": "cart_art_g1.jpg"
+            },
+            {
+                "author": "Макс Рихтер",
+                "Name": "Птенцы",
+                "description": "Холст, масло",
+                "size": "50х80",
+                "price": "14 500 руб",
+                "url": "cart_art_g2.jpg"
+            },
+            {
+                "author": "Мартин Майер",
+                "Name": "Среди листьев",
+                "description": "Цветная литография",
+                "size": "40х60",
+                "price": "20 000 руб",
+                "url": "cart_art_g3.jpg"
+            },
+            {
+                "author": "Герман Беккер",
+                "Name": "Яркая птица",
+                "pic": "Яркая птица",
+                "description": "Цветная литография",
+                "size": "40х60",
+                "price": "13 000 руб",
+                "url": "cart_art_g4.jpg"
+            },
+            {
+                "author": "Вульф Бауэр",
+                "Name": "Дятлы",
+                "description": "Бумага, акрил",
+                "size": "50х80",
+                "price": "20 000 руб",
+                "url": "cart_art_g5.jpg"
+            },
+            {
+                "author": "Вальтер Хартманн",
+                "Name": "Большие воды",
+                "description": "Бумага, акрил",
+                "size": "50х80",
+                "price": "23 000 руб",
+                "url": "cart_art_g6.jpg"
+            }
+        ]
+    },
+    "ForEnglandRep": {
+        "Country": "Англия",
+        "Reproductions": [
+            {
+                "author": "Пол Смит",
+                "Name": "Дикий зверь",
+                "description": "Акварель, бумага",
+                "size": "50х80",
+                "price": "19 500 руб",
+                "url": "cart_art_e1.jpg"
+            },
+            {
+                "author": "Джон Уайт",
+                "Name": "Скалистый берег",
+                "description": "Цветная литография",
+                "size": "40х60",
+                "price": "17 500 руб",
+                "url": "cart_art_e2.jpg"
+            },
+            {
+                "author": "Джим Уотсон",
+                "Name": "Река и горы",
+                "description": "Акварель, бумага",
+                "size": "50х80",
+                "price": "20 500 руб",
+                "url": "cart_art_e3.jpg"
+            },
+            {
+                "author": "Юджин Зиллион",
+                "Name": "Белый попугай",
+                "description": "Цветная литография",
+                "size": "40х60",
+                "price": "15 500 руб",
+                "url": "cart_art_e4.jpg"
+            },
+            {
+                "author": "Эрик Гиллман",
+                "Name": "Ночная рыба",
+                "description": "Бумага, акрил",
+                "size": "50х80",
+                "price": "12 500 руб",
+                "url": "cart_art_e5.jpg"
+            },
+            {
+                "author": "Альфред Барр",
+                "Name": "Рыжий кот",
+                "description": "Цветная литография",
+                "size": "40х60",
+                "price": "21 000 руб",
+                "url": "cart_art_e6.jpg"
+            }
+        ]
+    }
+}
