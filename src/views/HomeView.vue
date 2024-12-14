@@ -12,6 +12,7 @@
         </div>
   </div>
   <ReproductionBlock />
+  <PromoBlock />
 </template>
 <style>
 .bird-lay{
@@ -149,6 +150,7 @@
 <script>
 // @ is an alias to /src
 import HelloWorld from '@/components/HelloWorld.vue'
+import PromoBlock from '@/components/PromoBlock.vue';
 import ReproductionBlock from '@/components/ReproductionBlock.vue';
 
 /*export default {
@@ -164,7 +166,8 @@ export default {
         }
     },
     components: {
-        ReproductionBlock
+        ReproductionBlock,
+        PromoBlock
     }
 }
 
