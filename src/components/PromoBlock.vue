@@ -22,8 +22,10 @@
 
 <style>
 .promo-block {
-    background: linear-gradient(to right, #000, #00000000);
     color: #FFF;
+    background-image: url("../assets/pic_background.png");
+    color: #FFF;
+    text-align: left;
     font-family: Raleway;
     margin-top: 70px;
     position: relative;
@@ -41,7 +43,6 @@
 .promo-block::before {
     content: "";
     position: absolute;
-    background-image: url("../assets/pic_background.png");
     background-position: center;
     height: 100%;
     width: 100%;
